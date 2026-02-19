@@ -1,2 +1,0 @@
-# awscicdapp
-awscicdapp
